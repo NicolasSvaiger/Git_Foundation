@@ -2,8 +2,11 @@ Lista de Comandos (GIT) Obs: Todos os comandos são inciados com git
 
 status - Verifica o status dos arquivos
 init - Cria um novo repositorio
-add - Adiciona o arquivo no repositorio
-commit - salva alterações do arquivo ao repositorio
-branch - criação de ramificação
-remote add origin - adicionando a origem do repositorio
+add (Arquivo.Extensão)- Adiciona o arquivo no repositorio
+commit (-m "Escreva uma mensgem sobre a alteração") - salva alterações do arquivo ao repositorio
+branch (-m NomeRamificação) - criação de ramificação
+remote add origin (link GitHub/GItLAb do repositorio online)- adicionando a origem do repositorio
 push - envia os arquivos ao repositorio remoto
+pull - recebe os arquivos do repositorio remoto
+clone - (link do repositorio a ser clonado) - clona os arquivos do repositorio
+rm (Arquivo.Extensão) - Exclui o arquivo
