@@ -10,3 +10,4 @@ push - envia os arquivos ao repositorio remoto
 pull - recebe os arquivos do repositorio remoto
 clone - (link do repositorio a ser clonado) - clona os arquivos do repositorio
 rm (Arquivo.Extensão) - Exclui o arquivo
+log - mostra as alterações realizadas no repositorio
