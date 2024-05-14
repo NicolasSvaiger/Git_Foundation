@@ -1,0 +1,9 @@
+Lista de Comandos (GIT) Obs: Todos os comandos são inciados com git
+
+status - Verifica o status dos arquivos
+init - Cria um novo repositorio
+add - Adiciona o arquivo no repositorio
+commit - salva alterações do arquivo ao repositorio
+branch - criação de ramificação
+remote add origin - adicionando a origem do repositorio
+push - envia os arquivos ao repositorio remoto
